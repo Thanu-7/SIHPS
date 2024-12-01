@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:1.12.2024
+## Register Number:24900679
+## Name:Thanushree Vijayakanth
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
