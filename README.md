@@ -51,6 +51,7 @@ Reward points for alumni who make effots to guide people more
 
 
 ## Proposed Solution / Architecture Diagram
+
 ![image](https://github.com/user-attachments/assets/3b16e4ec-155f-442d-89f1-f90243776c7f)
 
 
@@ -58,51 +59,11 @@ Reward points for alumni who make effots to guide people more
 
 
 ## Use Cases
-```
+
 Alumni (User)
-Interacts with the system to manage their profile, participate in events, make donations, search jobs, and more.
-Admin
-Manages the system, approves content, handles event organization, and manages user accounts.
-Use Cases for Alumni (User)
-Alumni Registration & Profile Management
 
-Alumni can create and update their profiles.
-Making a Donation
+![Usecases](https://github.com/user-attachments/assets/c2c389c7-ac5a-4f5d-8af2-4178f9ff0a49)
 
-Alumni can donate to various funds or projects.
-Networking
-
-Alumni can search and connect with others based on interests, profession, etc.
-Job Portal
-
-Alumni can post or search job listings and apply for positions.
-Success Story Tracking
-
-Alumni can share their achievements and view others' success stories.
-Event Participation
-
-Alumni can register for events and reunions.
-Feedback & Surveys
-
-Alumni can provide feedback or fill out surveys.
-Use Cases for Admin
-Manage Alumni Data
-
-Admin can view and manage alumni profiles and interactions.
-Approve Donations
-
-Admin can approve and track donations.
-Manage Events
-
-Admin can create, update, and manage events.
-Publish Success Stories
-
-Admin reviews and publishes alumni success stories.
-Monitor User Feedback
-
-Admin can review feedback and survey results for improvement.
-
-```
 ## Technology Stack
 ```
 1.Frontend (Web and Mobile Applications)
